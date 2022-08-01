@@ -13,6 +13,7 @@
 		E644EA6E28974F270054A1B5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E644EA6D28974F270054A1B5 /* Preview Assets.xcassets */; };
 		E644EA75289752920054A1B5 /* TwoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E644EA74289752920054A1B5 /* TwoView.swift */; };
 		E644EA772897529F0054A1B5 /* ThreeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E644EA762897529F0054A1B5 /* ThreeView.swift */; };
+		E66FEDD5289893AD00CA3554 /* NavigationUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = E66FEDD4289893AD00CA3554 /* NavigationUtil.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		E644EA6D28974F270054A1B5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E644EA74289752920054A1B5 /* TwoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoView.swift; sourceTree = "<group>"; };
 		E644EA762897529F0054A1B5 /* ThreeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeView.swift; sourceTree = "<group>"; };
+		E66FEDD4289893AD00CA3554 /* NavigationUtil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationUtil.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				E644EA762897529F0054A1B5 /* ThreeView.swift */,
 				E644EA6A28974F270054A1B5 /* Assets.xcassets */,
 				E644EA6C28974F270054A1B5 /* Preview Content */,
+				E66FEDD4289893AD00CA3554 /* NavigationUtil.swift */,
 			);
 			path = SwiftUIBasics;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			files = (
 				E644EA6928974F260054A1B5 /* OneView.swift in Sources */,
 				E644EA772897529F0054A1B5 /* ThreeView.swift in Sources */,
+				E66FEDD5289893AD00CA3554 /* NavigationUtil.swift in Sources */,
 				E644EA75289752920054A1B5 /* TwoView.swift in Sources */,
 				E644EA6728974F260054A1B5 /* SwiftUIBasicsApp.swift in Sources */,
 			);

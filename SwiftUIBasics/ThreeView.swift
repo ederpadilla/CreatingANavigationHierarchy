@@ -46,7 +46,7 @@ struct ThreeView: View {
             }
             
             Button {
-                popToRoot = false
+                NavigationUtil.popToRootView()
             } label: {
                 Text("Root Screen")
                     .bold()
